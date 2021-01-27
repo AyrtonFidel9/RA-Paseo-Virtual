@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="cuyFIE" size="5.000000 2.500000" />
+    <ImageTarget name="avtdecanoFIE" size="7.000000 6.066667" />
     <ImageTarget name="videoFIE" size="7.000000 7.000000" />
     <ImageTarget name="infogFIE" size="7.000000 7.000000" />
     <ImageTarget name="LogoFIE" size="7.000000 7.000000" />
